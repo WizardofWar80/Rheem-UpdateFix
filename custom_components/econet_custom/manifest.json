@@ -7,4 +7,5 @@
   "iot_class": "cloud_push",
   "loggers": ["paho_mqtt", "pyeconet"],
   "requirements": ["pyeconet==0.1.20"]
+  "version": "0.1.0",
 }
